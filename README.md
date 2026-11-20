@@ -5,7 +5,7 @@
 ### *le gang le plus redouter de l'industrie de la boulangerie industriel*
 
 ![statut](https://img.shields.io/badge/statut-tres%20dangereu-red)
-![chiffrement](https://img.shields.io/badge/chiffrement-qualité%20militaire%20-blue)
+![chiffrement](https://img.shields.io/badge/chiffrement-qualité%20militaire-blue)
 ![hydratation](https://img.shields.io/badge/hydratation-1%2C5%20L%2Fjour-00bfff)
 ![opsec](https://img.shields.io/badge/opsec-impeccable-brightgreen)
 ![victimes](https://img.shields.io/badge/victimes-1%20boulangerie-orange)
